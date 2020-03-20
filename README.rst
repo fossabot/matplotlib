@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fmatplotlib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fmatplotlib?ref=badge_shield)
+
 |PyPi|_ |Downloads|_ |NUMFocus|_
 
 |DiscourseBadge|_ |Gitter|_ |GitHubIssues|_ |GitTutorial|_
@@ -100,3 +102,7 @@ If Matplotlib contributes to a project that leads to publication, please
 acknowledge this by citing Matplotlib.
 
 `A ready-made citation entry <https://matplotlib.org/citing.html>`_ is available.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fmatplotlib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fmatplotlib?ref=badge_large)
